@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi my name is Amy Hockett, I am an ***Epidemiologist*** with a desire to continue learning new skills! 🤖 
+Hi my name is Amy Hockett, I am an ***Epidemiologist*** with a desire to continue learning new skills!
 
 In my spare time I enjoy spending my time with my amazing wife, **Annie** and two dogs, Hopper and Henry. I also have a passion for travel, exploring new cultures, and cooking. I practice a primarily plant-based diet, so it is always a fun challenge to find unique recipes and restaurant options that support a cleaner diet. **You can find my GitHub Profile at**: https://github.com/HockettA
 
