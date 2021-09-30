@@ -11,4 +11,5 @@ Outside of work, I enjoy spending my time with my amazing wife, **Annie** and tw
 <a href = "url"><img src = "https://ellischiropracticofpuyallup.com/wp-content/uploads/2013/07/25.jpg" width = "250"></a>
 
 ## Table Contents
-* [*Growth Mindset*](GrowthMindset.md)
+* [*What is a Growth Mindset*](GrowthMindset.md)
+* [*Learn About GitHub*](Markdown.md)
