@@ -13,7 +13,7 @@ I am a firm believer that it is not the amount of brains that you bring to the t
   3. Dedicate time, even if it is small chunks of time to focus on learning a new skill.
 
 ## Website Links
-* [*About Me*](reading-notes.md)
+* [*About Me*](README.md)
 
 # References
 Haffenden, S. (2015). _How you can benefit from a growth mindset._ Retrieved from https://www.atlassian.com/blog/inside-atlassian/growth-mindset
