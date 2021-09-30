@@ -3,7 +3,7 @@ GitHub is a free web-based platform that enables coders to share their code publ
 
 
 ## What is Markdown? ##
-Markdown files are unique to GitHub; the files themselves contain text. However, the text is styled in GitHub's markdown files by utilizing markdown syntax. The syntax is fairly easy to use to organize and add emphasis to text on a page including inclusion of headers, application of bolding or italics to specific words, or adding images and lists.
+Markdown files are unique to GitHub. The files themselves contain text; however, the text is styled in GitHub's markdown files by utilizing markdown syntax. The syntax is fairly easy to use to organize and add emphasis to text on a page using non-alphabetic characteristics such as *, #, or >.   
 
 **Resources** 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
