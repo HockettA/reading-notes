@@ -13,3 +13,4 @@ Outside of work, I enjoy spending my time with my amazing wife, **Annie** and tw
 ## Table Contents
 * [*What is a Growth Mindset*](GrowthMindset.md)
 * [*Learn About GitHub*](Markdown.md)
+* [*Coders Computer*](coders_computer.md)
