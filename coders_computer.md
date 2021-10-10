@@ -1,8 +1,8 @@
 # Learning - The Coder's Computer
-This class provided some important foundational information that helps a prospective developer understand the different tools available to ensure success in managing future projects. This week we learned about command line interface or terminal, the different types of text editors, and walked through the steps for preparing the computer for code development. 
+This class provided some important foundational information that helps a prospective developer understand the different tools available to ensure success in managing future projects. This week we learned about command line interface and terminal, the different types of text editors, and walked through the steps for preparing the computer for code development. 
 
-## Commmand Line Interface?
-Command line, also referred to as the computer's terminal is a way to work with your computer through commands rather than using the 
+## Commmand Line Interface and Terminal
+Command line, also referred to as a terminal is a way to work with your computer system through input of text commands. Once a command is entered by the user, the command is processed and returns a result.
 
 ## Text Editors
 A text editor is exactly what it sounds like; it is an application or software that is downloaded on your computer or accessed via the internet that allows you to work with text. However, there are different types of text editors that allows you to work with text in different ways. The most simplistic application that you might be familiar with is Notepad for Windows or Text Edit for Mac users. Other basic types of text editors are word processors such as Microsoft Word of Google Docs. These come with very little bells and whistles only allowing only simple storage of whatever text you choose to write. However, if you are developing code you might need something a little more advanced to help write and manage the text associated with complex projects in an efficient manner. Like spell check in Microsoft Word is beneficial when writing text for a report, a coding specific text editor has some key features to help the developer check for errors in code, organize information, and work more efficiently. 
@@ -19,5 +19,9 @@ Additional Extensions| Extensions add new capability to what the developer can d
 ## Programs installed
 During the second class, focus was placed on building the environment on the computer that will enable efficient coding development. This included setting up multiple tools and programs to configure the terminal environment for development and establish a folder structure for storing code. In addition, we established a local connection to GitHub and installed the text editor that will be used to write and manage text when building a website. 
 
-Table of Contents
+
+## Table Contents
+* [*About Me*](README.md)
+* [*What is a Growth Mindset*](GrowthMindset.md)
+* [*Learn About GitHub*](Markdown.md)
 
