@@ -1,7 +1,7 @@
 # Learning - The Coder's Computer
 This class provided some important foundational information that helps a prospective developer understand the different tools available to ensure success in managing future projects. This week we learned about command line interface and terminal, the different types of text editors, and walked through the steps for preparing the computer for code development. 
 
-## Commmand Line Interface and Terminal
+## Command Line Interface and Terminal
 Command line, also referred to as a terminal is a way to work with your computer system through input of text commands. Once a command is entered by the user, the command is processed and returns a result.
 
 ## Text Editors
