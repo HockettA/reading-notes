@@ -9,3 +9,9 @@ Git is the version control system that allows a developer to work with a Git rep
 
 ## Git to GitHub using A-C-P
 In Git, there are three states that a file may be in when being worked with: Modified, Staged, or Committeed. A modified state, is when a file has been worked on but the changes are not yet being tracked. In order to begin tracking the changes, the modified changes must be added to git's version control in the staging state (**Add**). Once the modifications have been added to be tracked, the next stage is to commit the changes to the repository (**Commit**). During the commit stage, the developer includes a message to accompany the commit that explains what has been changed and why. Finally, in order to communicate the changes that have been made with the explanation to teammembers, the change must then be pushed to the desired GitHub branch for consideration (**Push**).
+
+## Table Contents
+* [*About Me*](README.md)
+* [*What is a Growth Mindset*](GrowthMindset.md)
+* [*Learn About GitHub*](Markdown.md)
+* [*A Coder's Computer*](coders_computer.md)
