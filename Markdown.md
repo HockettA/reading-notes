@@ -9,6 +9,8 @@ Markdown files are unique to GitHub. The files themselves contain text; however,
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Basic Formatting Syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Links ##
+## Table of Contents ##
 * [*About Me*](README.md)
 * [*Growth Mindset*](GrowthMindset.md)
+* [*A Coder's Computer*](coders_computer.md)
+* [*Mock Up to Mark Up*](Structure.md)

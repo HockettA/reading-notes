@@ -62,3 +62,8 @@ When beginning a new web development project there are some key steps to conside
 
 ![Picture of Rocket to describe launch](Images/Launch (2).jpg)
 **LAUNCH!!!**
+
+## Table of Contents ##
+* [*About Me*](README.md)
+* [*Growth Mindset*](GrowthMindset.md)
+* [*A Coder's Computer*](coders_computer.md)

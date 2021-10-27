@@ -16,6 +16,7 @@ I am a firm believer that it is not the amount of brains that you bring to the t
 * [*About Me*](README.md)
 * [*Learn About GitHub*](Markdown.md)
 * [*A Coder's Computer*](coders_computer.md)
+* [*Mock Up to Mark Up*](Structure.md)
 
 # References
 Haffenden, S. (2015). _How you can benefit from a growth mindset._ Retrieved from https://www.atlassian.com/blog/inside-atlassian/growth-mindset
