@@ -32,7 +32,6 @@ When beginning a new web development project there are some key steps to conside
 
 **LAUNCH!!!**
 
-<<<<<<< HEAD
 ![Picture of Rocket to describe launch](Images/Launch (2).jpg)
 **LAUNCH!!!**
 
@@ -40,6 +39,4 @@ When beginning a new web development project there are some key steps to conside
 * [*About Me*](README.md)
 * [*Growth Mindset*](GrowthMindset.md)
 * [*A Coder's Computer*](coders_computer.md)
-=======
 ![Picture of Rocket to describe launch](Images/Launch.jpg)
->>>>>>> c3b2a38798a5d0a2dd7e55777cb6a1894097cd00
