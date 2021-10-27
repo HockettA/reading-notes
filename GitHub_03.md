@@ -1,7 +1,7 @@
 # Learning Class 03: Git to GitHub
 In order to collaborate with others in building and perfecting code, there needs to be an environment that facilitates real-time collaboration among developers working on projects together. GitHub is the place where this type of collaboration may occur via a web-based graphical interface. While GitHub is the **place** where developers can share and publish code and network with other developers within a web environment, Git repositories are where the collaboration among project teams occurs. GitHub acts as the hosting service for these Git repositories. Git repositories include built-in **version control known as 'Git'** to support project collaboration while being able to track the changes made to a shared file and why. However, it is important to recognize that Git and GitHub are not synonymous. Unlike GitHub, Git is installed and maintained on a developer's local system. 
 
-![Git vs GitHub image](/Git_Image.png)
+![Git vs GitHub image](Images/Git_Image.png)
 
 ## What is Git?
 

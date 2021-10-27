@@ -2,7 +2,7 @@
 
 Hi my name is Amy Hockett, I am an ***Epidemiologist*** with a desire to continue learning new skills! I currently have a PhD in Public Health - Epidemiology, Masters in Public Health - Community Health, and a Bachelors of Science in Human Biology. Throughout the pandemic and 2020 Derecho I became inspired to learn new skills that would help me do my job more efficiently and effectively. I am excited to dive deeper into the world of coding.
 
-![Amy](/AmyPicture.jpg)
+![Amy](Images/AmyPicture.jpg)
 
 **GitHub Profile:**: https://github.com/HockettA
 
