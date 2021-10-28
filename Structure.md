@@ -66,4 +66,5 @@ Semantics refers to the meaning a particular code has on the text it is associat
 * [*About Me*](README.md)
 * [*Growth Mindset*](GrowthMindset.md)
 * [*A Coder's Computer*](coders_computer.md)
+* [*Learning Git to GitHub*](GitHub_03.md)
 
