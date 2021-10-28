@@ -43,10 +43,7 @@ html: Opens the html code
     head: This section provides instructions for the browser. This is not seen on a website.
         meta: tag to describe the data about the data, formally used to help the search engine pull up relevant websites when an individual inputs a search criteria.
         title: This is what shows on the browser tab when opened
-    
-      
     body: This begins the section composed of the primary content of the website.
-
 
     <img src ="http://placehold.it/300x200"/> : image tag 
         <h1>: Header tag. HTML has six header levels possible
@@ -60,7 +57,7 @@ html: Opens the html code
 
 # Semantics #
 
-Semantics refers to the meaning a particular code has on the text it is associated. For instance <h1>Hello World!</h1> states that "Hello World" will be treated as a primary header and will abide by the rules associated including being large print, underlined, and bolded.
+Semantics refers to the meaning a particular code has on the text it is associated. For instance a header 1 (h1) Hello World! states that "Hello World" will be treated as a primary header and will abide by the rules associated including being large print, underlined, and bolded.
 
 ## Table of Contents ##
 * [*About Me*](README.md)
