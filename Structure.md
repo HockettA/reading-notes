@@ -32,22 +32,24 @@ When beginning a new web development project there are some key steps to conside
 
 ![Picture of Rocket to describe launch](Images/Launch.jpg)
 
-<<<<<<< HEAD
-![Picture of Rocket to describe launch](Images/Launch (2).jpg)
-
 
 # Basic Anatomy of HTML
 HTML is short for **H**yper **T**ext **L**anguage; it is what defines the structure of the content on a website. Code is comprised on a series of elements housed within a basic structure of head, body, main, and footer. An element includes three components an opening tag, content(information you want to share), and closing tag. Below is the basic starting structure of HTML code.
 
-<!DOCTYPE html>: This lets the browser know what type of file it is reading
-<html>: Opens the html code
-    <head>: This section provides instructions for the browser. This is not seen on a website.
-        <meta>: tag to describe the data about the data, formally used to help the search engine pull up relevant websites when an individual inputs a search criteria.
-        <title>: This is what shows on the browser tab when opened
-    </head> closes the head section
-    <body>: This begins the section composed of the primary content of the website.
+!DOCTYPE html: This lets the browser know what type of file it is reading
 
-<!-- All content below aside from the img tag has an associated closing tag. This is also what is called a comment tag, which does not show on a rendered page, but serves as a directory for others accessing the code -->        
+html: Opens the html code
+    
+    head: This section provides instructions for the browser. This is not seen on a website.
+        meta: tag to describe the data about the data, formally used to help the search engine pull up relevant websites when an individual inputs a search criteria.
+        title: This is what shows on the browser tab when opened
+    
+    /head closes the head section
+    
+    body: This begins the section composed of the primary content of the website.
+
+<!-- All content below aside from the img tag has an associated closing tag. This is also what is called a comment tag, which does not show on a rendered page, but serves as a directory for others accessing the code --> 
+
     <img src ="http://placehold.it/300x200"/> : image tag 
         <h1>: Header tag. HTML has six header levels possible
         <p>: Makes a block of text a separate paragraph
@@ -57,12 +59,11 @@ HTML is short for **H**yper **T**ext **L**anguage; it is what defines the struct
     </body>
     <footer> : Added content for the bottom of a page
     </footer>: Closes the footer tag
-</html>: Closes the html coding
+/html: Closes the html coding
 
-# Semantics
+# Semantics #
+
 Semantics refers to the meaning a particular code has on the text it is associated. For instance <h1>Hello World!</h1> states that "Hello World" will be treated as a primary header and will abide by the rules associated including being large print, underlined, and bolded.
-=======
->>>>>>> 3f3e15fc5d22660f4a9e8d8f93b7dafb513efbda
 
 ## Table of Contents ##
 * [*About Me*](README.md)
