@@ -44,8 +44,7 @@ html: Opens the html code
         meta: tag to describe the data about the data, formally used to help the search engine pull up relevant websites when an individual inputs a search criteria.
         title: This is what shows on the browser tab when opened
     
-    /head closes the head section
-    
+      
     body: This begins the section composed of the primary content of the website.
 
 
@@ -58,7 +57,6 @@ html: Opens the html code
     </body>
     <footer> : Added content for the bottom of a page
     </footer>: Closes the footer tag
-/html: Closes the html coding
 
 # Semantics #
 
