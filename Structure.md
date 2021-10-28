@@ -30,8 +30,9 @@ When beginning a new web development project there are some key steps to conside
 6. **Test and Gain Feedback from Users**
 
 
-**LAUNCH!!!**
+![Picture of Rocket to describe launch](Images/Launch.jpg)
 
+<<<<<<< HEAD
 ![Picture of Rocket to describe launch](Images/Launch (2).jpg)
 
 
@@ -60,6 +61,8 @@ HTML is short for **H**yper **T**ext **L**anguage; it is what defines the struct
 
 # Semantics
 Semantics refers to the meaning a particular code has on the text it is associated. For instance <h1>Hello World!</h1> states that "Hello World" will be treated as a primary header and will abide by the rules associated including being large print, underlined, and bolded.
+=======
+>>>>>>> 3f3e15fc5d22660f4a9e8d8f93b7dafb513efbda
 
 ## Table of Contents ##
 * [*About Me*](README.md)
