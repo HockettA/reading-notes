@@ -48,7 +48,7 @@ html: Opens the html code
     
     body: This begins the section composed of the primary content of the website.
 
-<!-- All content below aside from the img tag has an associated closing tag. This is also what is called a comment tag, which does not show on a rendered page, but serves as a directory for others accessing the code --> 
+
 
     <img src ="http://placehold.it/300x200"/> : image tag 
         <h1>: Header tag. HTML has six header levels possible
