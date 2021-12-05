@@ -11,8 +11,9 @@ Outside of work, I enjoy spending my time with my amazing wife, **Annie** and tw
 <a href = "url"><img src = "https://ellischiropracticofpuyallup.com/wp-content/uploads/2013/07/25.jpg" width = "250"></a>
 
 ## Table Contents
+* [*About Me*](README.md)
 * [*What is a Growth Mindset*](GrowthMindset.md)
 * [*Learn About GitHub*](Markdown.md)
 * [*A Coder's Computer*](coders_computer.md)
 * [*Learning Git to GitHub*](GitHub_03.md)
-* [*Mock Up to Mark Up*](Structure.md)
+* [*HTML and Wireframing*](Structure.md)

@@ -12,11 +12,13 @@ I am a firm believer that it is not the amount of brains that you bring to the t
   2. Anything worth learning will take time to master. Practice will be key to mastery!
   3. Dedicate time, even if it is small chunks of time to focus on learning a new skill.
 
-## Table of Contents
+## Table Contents
 * [*About Me*](README.md)
+* [*What is a Growth Mindset*](GrowthMindset.md)
 * [*Learn About GitHub*](Markdown.md)
 * [*A Coder's Computer*](coders_computer.md)
-* [*Mock Up to Mark Up*](Structure.md)
+* [*Learning Git to GitHub*](GitHub_03.md)
+* [*HTML and Wireframing*](Structure.md)
 
 # References
 Haffenden, S. (2015). _How you can benefit from a growth mindset._ Retrieved from https://www.atlassian.com/blog/inside-atlassian/growth-mindset

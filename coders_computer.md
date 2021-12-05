@@ -24,4 +24,7 @@ During the second class, focus was placed on building the environment on the com
 * [*About Me*](README.md)
 * [*What is a Growth Mindset*](GrowthMindset.md)
 * [*Learn About GitHub*](Markdown.md)
+* [*A Coder's Computer*](coders_computer.md)
+* [*Learning Git to GitHub*](GitHub_03.md)
+* [*HTML and Wireframing*](Structure.md)
 

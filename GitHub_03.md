@@ -15,3 +15,5 @@ In Git, there are three states that a file may be in when being worked with: Mod
 * [*What is a Growth Mindset*](GrowthMindset.md)
 * [*Learn About GitHub*](Markdown.md)
 * [*A Coder's Computer*](coders_computer.md)
+* [*Learning Git to GitHub*](GitHub_03.md)
+* [*HTML and Wireframing*](Structure.md)

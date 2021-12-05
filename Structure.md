@@ -45,11 +45,6 @@ html: Opens the html code
         title: This is what shows on the browser tab when opened
     body: This begins the section composed of the primary content of the website.
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> c2fbb535ddc5c19a4c2e3a606451935d62e84b2f
     <img src ="http://placehold.it/300x200"/> : image tag 
         <h1>: Header tag. HTML has six header levels possible
         <p>: Makes a block of text a separate paragraph
@@ -64,9 +59,11 @@ html: Opens the html code
 
 Semantics refers to the meaning a particular code has on the text it is associated. For instance a header 1 (h1) Hello World! states that "Hello World" will be treated as a primary header and will abide by the rules associated including being large print, underlined, and bolded.
 
-## Table of Contents ##
+## Table Contents
 * [*About Me*](README.md)
-* [*Growth Mindset*](GrowthMindset.md)
+* [*What is a Growth Mindset*](GrowthMindset.md)
+* [*Learn About GitHub*](Markdown.md)
 * [*A Coder's Computer*](coders_computer.md)
 * [*Learning Git to GitHub*](GitHub_03.md)
+* [*HTML and Wireframing*](Structure.md)
 
